@@ -1,0 +1,542 @@
+B	C	D		F		H	I						O	P	
+	C			F		H	I						O	P	
+B	C				G		I	J					O	P	
+B				F		H	I		K				O	P	
+B	C	D	E			H	I	J					O	P	
+B	C			F		H	I			L			O	P	
+B	C	D	E	F		H	I	J						P	
+B	C	D		F		H	I			L			O	P	
+B	C	D	E	F		H	I	J					O	P	
+B	C	D	E	F		H	I	J		L			O	P	
+B		D	E			H	I	J					O	P	
+B	C	D	E	F		H	I				M		O	P	
+B	C	D	E	F		H	I			L	M		O	P	
+B	C	D		F		H	I			L			O	P	
+B	C	D		F		H	I			L			O	P	
+B	C	D	E	F		H	I			L			O	P	
+B	C	D	E	F		H	I						O	P	Q
+	C			F			I			L			O		
+	C	D	E			H	I			L	M		O		
+	C		E			H				L			O	P	
+B	C	D		F		H	I			L			O	P	
+B		D	E	F		H	I				M		O	P	
+B	C			F		H	I				M		O	P	
+B	C	D				H	I						O	P	
+B	C			F		H	I			L			O	P	
+B		D		F		H	I			L			O	P	
+B		D	E	F		H	I			L			O	P	
+B	C		E	F		H	I		K	L			O	P	
+B	C		E	F		H	I		K	L			O	P	
+B	C		E	F		H	I			L			O	P	
+B	C		E	F		H	I						O	P	
+B	C			F		H	I			L			O	P	
+	C	D	E	F		H	I			L	M		O	P	
+B	C		E	F		H	I			L			O	P	
+B	C		E	F		H	I			L	M		O	P	
+B	C	D		F		H	I	J		L	M		O	P	
+B	C	D	E	F		H	I			L			O	P	
+B	C		E	F		H	I			L			O	P	
+B	C			F		H	I			L			O	P	
+B	C	D				H	I						O	P	
+B						H	I						O	P	
+B	C		E			H	I			L			O	P	
+B	C	D				H	I						O	P	
+B				F		H	I						O	P	
+B				F		H	I						O	P	
+B	C	D		F		H	I		K				O	P	
+B	C			F		H	I						O	P	
+B	C			F		H	I						O	P	
+B	C	D				H	I						O	P	
+B	C	D		F		H	I							P	
+B	C	D		F		H	I						O	P	
+B	C	D		F		H	I								
+B	C	D		F		H	I					N	O	P	
+B	C	D		F		H	I						O	P	
+B	C	D		F		H	I						O	P	
+B	C	D		F		H	I			L			O	P	
+B	C	D		F		H	I						O	P	
+B	C	D				H	I		K				O	P	
+B	C	D		F		H	I						O	P	
+B	C			F		H	I						O	P	
+B		D		F		H	I						O	P	
+B	C			F		H	I						O	P	
+B	C			F		H	I						O	P	
+B	C	D		F		H	I		K				O	P	
+B	C			F		H	I		K				O	P	
+B	C	D				H	I						O	P	
+B	C			F		H	I						O	P	
+B	C	D		F		H	I						O	P	
+B	C	D		F		H	I						O	P	
+B	C	D		F		H	I						O	P	
+B	C	D		F		H	I						O	P	
+B	C	D		F		H	I						O	P	
+B	C					H	I						O	P	
+B	C	D				H	I					N	O	P	
+B	C					H	I		K			N	O	P	
+B		D		F		H	I						O	P	
+	C	D					I		K					P	
+B	C					H	I						O	P	
+B	C	D				H	I					N	O	P	
+B	C	D				H	I		K				O	P	
+	C	D		F		H	I						O	P	
+B	C			F		H	I						O	P	
+B						H	I		K				O	P	Q
+B	C	D		F		H	I						O	P	
+B						H	I						O	P	
+B	C	D				H	I		K				O	P	
+B	C	D		F		H	I						O	P	
+	C	D		F											
+B	C			F		H	I						O	P	Q
+B		D		F		H	I						O	P	
+B	C			F		H	I						O	P	
+B	C			F		H	I						O	P	
+B						H	I						O		
+B	C			F		H	I			L			O	P	
+B	C			F		H	I						O	P	
+B	C	D		F		H	I		K				O	P	
+		D		F		H	I						O	P	
+B	C	D			G		I			L				P	
+B	C	D			G		I			L				P	
+B	C	D			G		I		K	L				P	
+B	C				G		I			L				P	
+B	C	D			G		I			L			O	P	
+B	C	D					I			L			O	P	
+B	C	D			G		I			L			O	P	
+B	C	D				H	I						O	P	
+B	C	D			G		I		K				O	P	
+B	C			F	G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I			L			O	P	
+B	C				G		I						O	P	
+B	C	D			G		I			L			O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D	E		G		I				M			P	
+B	C				G		I						O	P	
+B	C		E		G		I						O	P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B		D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I		K				O	P	
+B		D		F	G		I						O	P	
+B	C				G		I						O	P	
+B					G		I						O	P	
+		D							K					P	
+B		D	E		G		I		K					P	
+B			E		G		I		K	L			O	P	
+	C	D							K						
+	C			F						L					
+	C	D		F	G		I								
+B		D		F	G		I							P	
+B				F	G		I		K					P	
+B		D				H	I						O		
+B				F		H	I						O	P	
+B						H	I						O	P	
+B				F		H	I						O	P	
+B		D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C	D			G		I						O	P	
+B		D		F	G		I						O	P	
+B		D		F	G		I						O	P	
+B							I						O	P	
+B		D			G		I						O	P	
+B	C	D				H	I						O		
+B	C	D		F		H	I						O	P	
+B	C			F		H	I						O	P	
+B				F		H	I						O	P	
+B	C				G		I						O	P	
+B		D		F		H	I						O	P	
+B	C			F	G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C	D		F	G		I						O	P	
+B				F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C				G		I						O	P	
+	C	D		F	G		I						O	P	
+	C		E		G		I						O	P	
+B	C			F	G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C				G		I						O	P	
+B		D		F	G		I						O	P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C			F	G		I						O	P	
+B	C			F			I						O	P	
+B		D		F	G		I						O	P	
+B				F	G		I						O	P	
+B	C			F	G		I						O	P	
+B		D			G		I						O	P	
+B				F	G		I						O	P	
+B					G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C	D		F	G		I							P	
+B	C	D		F	G		I							P	
+B			E		G		I			L			O	P	
+B	C	D		F	G		I						O	P	
+B			E		G		I						O	P	
+B	C			F	G		I						O	P	
+B		D		F	G		I						O	P	
+B				F	G		I						O	P	
+B				F	G		I						O	P	
+B					G		I						O	P	
+B	C			F	G		I						O	P	
+B					G		I		K				O	P	
+B				F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C			F	G		I						O	P	
+B		D		F	G		I						O		
+B	C	D		F	G		I						O	P	
+B	C			F	G		I					N	O	P	
+B	C				G		I						O	P	
+B					G		I						O	P	
+B			E		G		I		K				O	P	
+B	C			F	G		I						O	P	
+B					G		I						O	P	
+B		D			G		I						O	P	
+B		D			G		I						O	P	
+B	C	D		F	G		I						O	P	
+B				F	G		I						O	P	
+B	C	D		F	G		I							P	
+B				F	G		I						O	P	
+B				F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C	D			G		I						O	P	
+B	C				G		I		K				O	P	
+B	C				G		I						O	P	
+B					G		I						O	P	
+B	C			F	G		I						O	P	
+B					G		I						O	P	
+B			E	F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C				G		I		K				O	P	
+B	C			F	G		I						O	P	
+B	C				G		I						O	P	
+B	C			F	G		I						O	P	
+B	C	D		F	G		I						O	P	
+B					G		I						O	P	
+B					G		I						O	P	
+B	C				G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C			F	G		I						O	P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C				G		I		K				O	P	
+B	C				G								O	P	
+B				F	G		I						O	P	
+B	C				G		I						O	P	
+B	C				G		I						O	P	
+B					G		I			L				P	
+B				F	G		I						O	P	
+B	C				G		I						O	P	
+B			E		G		I		K				O	P	
+B				F	G		I						O	P	
+B	C		E		G		I						O	P	
+B				F	G		I					N	O	P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D	E		G		I		K				O	P	
+B	C				G		I						O	P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C			F	G		I						O	P	
+B		D			G		I						O	P	
+B		D			G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D		F	G		I						O	P	
+B	C	D	E		G		I							P	
+B	C				G		I			L				P	
+B	C	D	E	F	G		I							P	
+B	C	D	E	F	G		I			L				P	
+B	C		E		G		I							P	
+B	C		E		G		I			L				P	
+B	C	D	E	F	G		I			L				P	
+B				F	G		I							P	
+B	C		E	F	G		I							P	
+B		D	E	F	G									P	
+B	C	D					I			L				P	
+B	C	D		F	G		I							P	
+B	C	D	E	F	G		I							P	
+B	C		E	F	G		I							P	
+B	C		E	F	G		I						O	P	
+B	C	D		F	G		I							P	
+B		D	E		G		I							P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D	E	F	G		I						O	P	
+B	C	D			G		I							P	
+B	C				G		I			L				P	
+B					G		I		K	L			O	P	
+B	C				G		I		K				O	P	
+B	C	D					I						O	P	
+B	C	D		F	G								O	P	
+B	C	D		F	G		I						O	P	
+B	C	D	E		G		I						O	P	
+B	C	D			G		I						O	P	
+B		D			G		I						O	P	
+B	C		E		G		I						O	P	
+B	C	D	E		G		I						O	P	
+B	C	D	E		G		I						O	P	
+B	C		E		G		I						O	P	
+B	C		E		G		I						O	P	
+B	C	D	E		G		I						O	P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C				G		I						O	P	
+B	C				G		I			L			O	P	
+B	C	D			G		I			L			O	P	
+B	C	D		F	G		I		K				O	P	
+B		D		F	G		I		K				O	P	
+B	C	D	E		G		I			L			O	P	
+B		D			G		I						O	P	
+B			E		G		I						O	P	
+B	C	D			G		I						O	P	
+B		D	E		G		I			L			O	P	
+B	C	D			G		I						O	P	
+B	C				G		I						O	P	
+B	C			F	G		I						O	P	
+B	C	D			G		I						O	P	
+B	C	D			G		I						O	P	
+B			E		G		I						O	P	
+B	C		E		G		I						O	P	
+B	C	D		F	G		I						O	P	
+B				F	G		I		K				O	P	
+B	C	D			G		I		K				O	P	
+			E		G		I						O	P	
+B	C			F	G		I						O	P	
+B	C		E	F	G		I						O	P	
+B	C	D		F	G		I		K				O	P	
+B	C				G		I		K				O	P	
+B		D			G		I			L			O	P	
+B		D			G		I			L			O	P	
+B	C				G		I						O	P	
+B	C			F	G		I						O	P	
+B			E		G		I		K				O	P	
+B			E	F	G		I		K					P	
+B			E		G		I		K				O	P	
+B	C		E		G		I						O	P	
+B	C		E	F			I		K					P	
+B	C	D			G		I			L			O	P	
+B	C				G		I			L			O	P	
+B					G		I			L			O	P	
+B	C	D			G		I			L			O	P	
+B					G		I		K				O	P	
+B					G		I							P	
+B	C				G		I							P	
+B	C			F	G		I		K				O	P	
+B			E		G		I						O	P	
+B	C				G		I								
+B	C				G		I						O	P	
+B			E	F	G		I							P	
+B			E		G		I							P	
+			E		G		I							P	
+B			E	F	G		I		K					P	
+B	C		E	F	G		I								
+B			E		G		I		K				O	P	
+B	C		E		G		I							P	
+B		D			G		I						O	P	
+B		D			G		I						O	P	
+B		D			G		I						O	P	
+B			E	F	G		I							P	
+	C		E	F	G		I		K				O	P	
+	C		E				I		K				O	P	
+B	C		E		G		I		K				O	P	
+	C			F	G		I		K				O	P	
+B					G		I						O	P	
+B					G		I						O	P	
+B					G		I		K				O	P	
+B					G		I		K				O	P	
+B	C			F	G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B			E	F	G		I						O	P	
+B	C		E		G		I		K				O	P	
+B	C		E		G		I		K				O	P	
+B	C		E		G		I		K					P	
+	C		E		G		I		K				O	P	
+B					G		I						O	P	
+B					G		I						O	P	
+B	C	D	E		G		I							P	
+B					G		I						O	P	
+B				F	G		I							P	
+B					G		I							P	
+B	C		E	F	G		I		K				O	P	
+B	C			F	G		I		K				O	P	
+B	C				G		I		K				O	P	
+B	C				G		I		K				O	P	
+	C		E		G		I						O	P	
+	C		E		G		I						O	P	
+	C		E		G		I						O	P	
+	C				G		I						O	P	
+				F	G		I						O	P	
+					G		I						O	P	
+	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I						O	P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I		K					P	
+B	C		E		G		I		K					P	
+B	C	D			G		I							P	
+B		D			G		I							P	
+B	C	D	E		G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C	D		F	G		I							P	
+B	C			F	G		I							P	
+B	C				G		I							P	
+B	C	D			G		I							P	
+B	C	D			G		I							P	
+B					G		I							P	
+B	C			F	G		I							P	
+B	C			F	G		I							P	
+B			E		G		I							P	
+B		D			G		I						O	P	
+B					G		I							P	
+B		D			G		I							P	
+B			E		G		I							P	
+B	C	D			G		I							P	
+B	C	D			G		I							P	
+B	C	D			G		I						O	P	
+B	C				G		I							P	
+B	C				G		I							P	
+	C	D			G		I							P	
+B	C				G		I						O	P	
+B			E		G		I						O	P	
+B			E		G		I						O	P	
+B	C				G		I							P	
+B	C				G		I						O	P	
+B	C	D			G		I						O	P	
+B	C				G		I						O	P	
+B	C				G		I						O	P	
+B			E		G		I								
+B			E		G		I							P	
+B			E		G		I							P	
+B			E		G		I						O	P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B			E		G		I								
+B			E		G		I							P	
+B			E	F	G		I							P	
+B				F	G		I		K					P	
+B				F	G		I							P	
+B					G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B	C		E	F	G		I							P	
+B	C		E		G		I								
+B					G		I							P	
+B					G		I							P	
+B			E		G		I							P	
+B			E	F	G		I							P	
+B					G		I							P	
+B					G		I							P	
+B					G		I							P	
+B			E		G		I							P	
+B	C				G		I							P	
+B	C		E	F	G		I							P	
+B				F	G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B			E		G		I							P	
+B	C		E	F	G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B			E	F	G		I							P	
+B	C		E		G		I							P	
+B	C	D			G		I							P	
+B	C				G		I							P	
+B	C		E	F	G		I							P	
+B	C			F	G		I							P	
+B			E	F	G		I							P	
+B			E	F	G		I							P	
+B			E	F	G		I							P	
+B				F	G		I							P	
+B					G		I							P	
+B				F	G		I							P	
+B					G		I							P	
+B					G		I							P	
+B	C			F	G		I							P	
+B	C				G		I							P	
+	C		E		G		I							P	
+	C			F	G		I							P	
+	C		E		G		I							P	
+			E	F	G		I							P	
+B	C		E		G		I							P	
+B			E		G		I							P	
+B	C				G		I		K					P	
+	C		E		G		I							P	
+B			E	F	G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+	C		E		G		I							P	
+B	C				G		I							P	
+B			E		G		I		K				O	P	
+	C		E		G		I							P	
+B					G		I							P	
+B	C				G		I							P	
+B			E		G		I							P	
+B	C				G		I							P	
+B	C			F	G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+B	C				G		I							P	
+	C				G		I							P	
+B	C			F	G		I							P	
+B			E		G		I							P	
+B	C		E		G		I							P	
+B	C		E	F	G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B			E		G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B	C		E	F	G		I		K					P	
+B	C		E		G		I		K					P	
+B	C	D	E		G		I							P	
+B	C		E		G		I							P	
+B	C		E		G		I							P	
+B	C		E	F	G		I							P	
+B	C			F	G		I							P	
+B	C		E	F	G		I							P	
+B	C		E		G		I							P	
+B			E		G		I							P	
+B			E		G		I							P	
+B	C				G		I							P	
+B	C			F	G		I							P	
+B	C				G		I							P	
+B	C	D	E		G		I							P	
